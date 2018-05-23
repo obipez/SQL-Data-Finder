@@ -46,7 +46,8 @@ if __name__ == '__main__':
 
     cur = conn.cursor()
 
-    #    get_top_three()
+    get_top_three()
     most_popular_authors()
+    percent_of_errors()
 
     conn.close()
