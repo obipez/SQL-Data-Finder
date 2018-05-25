@@ -2,7 +2,8 @@
 Project in exploring databases in PSQL, Python, Vagrant, through a virtual machine.
 
 
-** Getting Started **
+**Getting Started**
+
 Instructions for running:
 1. Download the database
 2. Download vagrant and virtualbox
@@ -13,8 +14,9 @@ Instructions for running:
 7. Use python3 news.py to get the results
 
 
-** Prerequisites **
-What things you need to install the software and how to install them.
+**Prerequisites**
+
+What you need to install and how to install them.
 
 -Vagrant:
     https://www.vagrantup.com/downloads.html
