@@ -23,6 +23,7 @@ What you need to install and how to install them.
     
 -VirtualBox:
     https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
+    
     (Note: Have to download VirtualBox 5.1.30 in order to work with Vagrant)
     
 -The Databased used:
