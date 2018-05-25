@@ -1,7 +1,8 @@
 # SQL-Data-Finder
 Project in exploring databases in PSQL, Python, Vagrant, through a virtual machine.
 
--- Getting Started --
+
+** Getting Started **
 Instructions for running:
 1. Download the database
 2. Download vagrant and virtualbox
@@ -11,7 +12,8 @@ Instructions for running:
 6. CTRL + D to go back to the vagrant commandline
 7. Use python3 news.py to get the results
 
--- Prerequisites --
+
+** Prerequisites **
 What things you need to install the software and how to install them.
 
 -Vagrant:
